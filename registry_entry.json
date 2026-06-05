@@ -1,0 +1,11 @@
+{
+  "author": "kikouousya",
+  "title": "GhostComfyuiNodes",
+  "id": "ghost-comfyui-nodes",
+  "reference": "https://github.com/kikouousya/GhostComfyuiNodes",
+  "files": [
+    "https://github.com/kikouousya/GhostComfyuiNodes"
+  ],
+  "install_type": "git-clone",
+  "description": "A practical custom node collection for ComfyUI, including Danbooru bridge helpers, prompt utilities, ETA/XY tools, image saving metadata helpers, and UI-side JavaScript enhancements."
+}
